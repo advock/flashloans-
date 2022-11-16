@@ -62,5 +62,5 @@ contract Flashloan is FlashLoanSimpleReceiverBase {
     function Receive() external payable {}
 }
 //GOERLI_RPC_UR ='https://eth-goerli.g.alchemy.com/v2/kH74ovyVPFoFpi-ddofXYKhlVow_uy_S'
-//PRIVATE_KEY = "7d39503c40b2a4490044ff4730381592c953a6560d23b3c39e507f29ed81304f"
+//PRIVATE_KEY = " "
 //
